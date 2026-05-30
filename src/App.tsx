@@ -11,6 +11,7 @@
 import React from 'react';
 import Hero from './components/Hero';
 import About from './components/About';
+import RJHomes from './components/RJHomes';
 import Gallery from './components/Gallery';
 import Amenities from './components/Amenities';
 import WhyChoose from './components/WhyChoose';
@@ -28,7 +29,10 @@ export default function App() {
       {/* 2. Short Premium Story Intro */}
       <About />
 
-      {/* 3. Category Grid Room Gallery */}
+      {/* 3. Dedicated RJ Homes Showcase */}
+      <RJHomes />
+
+      {/* 4. Category Grid Room Gallery */}
       <Gallery />
 
       {/* 4. Daily Curated Amenities */}

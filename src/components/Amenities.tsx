@@ -37,7 +37,7 @@ const amenitiesData: AmenityProps[] = [
   {
     id: 'safe',
     title: 'Safe & Secure Stay',
-    description: 'Strict ladies-only access policy, strong locks, secure gate parameters, and located inside a highly reliable neighborhood in Vashi.',
+    description: 'RJ-PG is exclusively for working ladies and girl students with a strict ladies-only access policy, while RJ Homes welcomes families, professionals, travelers, and all guests.',
     icon: ShieldCheck
   },
   {

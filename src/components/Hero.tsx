@@ -34,6 +34,7 @@ export default function Hero() {
 
   const navLinks = [
     { label: 'About', href: '#about' },
+    { label: 'RJ Homes', href: '#rj-homes' },
     { label: 'Gallery', href: '#gallery' },
     { label: 'Amenities', href: '#amenities' },
     { label: 'Contact', href: '#contact' },
@@ -164,9 +165,9 @@ export default function Hero() {
           initial={{ opacity: 0, y: 15 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.65, delay: 0.1, ease: "easeOut" }}
-          className="mb-4 tracking-[0.25em] font-sans text-xs font-bold text-orange-accent uppercase"
+          className="mb-4 tracking-[0.15em] font-sans text-xs font-bold text-orange-accent uppercase"
         >
-          Paying Guest • Navi Mumbai
+          RJ-PG (Ladies Only) & RJ Homes (For All)
         </motion.div>
 
         {/* Elegant display serif typography */}
@@ -189,8 +190,8 @@ export default function Hero() {
           transition={{ duration: 0.85, delay: 0.4, ease: [0.16, 1, 0.3, 1] }}
           className="font-sans text-cream/95 text-sm sm:text-base md:text-lg font-light leading-relaxed max-w-2xl mb-10 drop-shadow-xs"
         >
-          Comfortable, fully furnished rooms with fully equipped kitchen <br className="hidden sm:block" />
-          — for students and working professionals right near Vashi.
+          Comfortable, fully furnished stays with modular kitchen facilities. <br className="hidden sm:block" />
+          <strong>RJ-PG</strong> is for ladies only, and <strong>RJ Homes</strong> offers well-maintained homestay accommodations for families, professionals, travelers, and all guests seeking a pleasant stay.
         </motion.p>
 
         {/* Floating Call to Actions */}
@@ -226,17 +227,17 @@ export default function Hero() {
         >
           <div className="flex items-center gap-2 px-3 py-1.5 bg-white/75 backdrop-blur-xs rounded-full border border-sand/65 shadow-2xs">
             <span className="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse" />
-            <span>Ladies Only</span>
+            <span>RJ-PG: Ladies Only</span>
+          </div>
+          <span className="hidden sm:inline text-charcoal-brown/25">|</span>
+          <div className="flex items-center gap-2 px-3 py-1.5 bg-white/75 backdrop-blur-xs rounded-full border border-sand/65 shadow-2xs">
+            <span className="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse" />
+            <span>RJ Homes: For All Guests</span>
           </div>
           <span className="hidden sm:inline text-charcoal-brown/25">|</span>
           <div className="flex items-center gap-2 px-3 py-1.5 bg-white/75 backdrop-blur-xs rounded-full border border-sand/65 shadow-2xs">
             <span className="w-1.5 h-1.5 rounded-full bg-orange-accent" />
             <span>Near Vashi Station</span>
-          </div>
-          <span className="hidden sm:inline text-charcoal-brown/25">|</span>
-          <div className="flex items-center gap-2 px-3 py-1.5 bg-white/75 backdrop-blur-xs rounded-full border border-sand/65 shadow-2xs">
-            <span className="w-1.5 h-1.5 rounded-full bg-orange-accent" />
-            <span>Pristine Hygiene</span>
           </div>
         </motion.div>
 

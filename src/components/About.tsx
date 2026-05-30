@@ -78,9 +78,20 @@ export default function About() {
             </h2>
 
             {/* Paragraph copy with specified text adjustments */}
-            <p className="font-sans text-stone-500 font-light text-sm md:text-base leading-relaxed mb-4">
-              Welcome to <strong>RJ-PG & RJ Homes</strong>, your trusted accommodation destination in Vashi, Navi Mumbai. RJ-PG provides a safe and comfortable stay for working ladies and girl students, while RJ Homes offers homestay accommodations for families, professionals, travelers, and other guests. Located at Plot No. 314, Sector 31, Vashi, we combine modern amenities with a peaceful residential atmosphere to ensure a comfortable and enjoyable stay.
-            </p>
+            <div className="font-sans text-stone-500 font-light text-sm md:text-base leading-relaxed mb-6 space-y-4">
+              <p>
+                Welcome to <strong>RJ-PG & RJ Homes</strong>, your trusted accommodation destination in Vashi, Navi Mumbai.
+              </p>
+              <p className="border-l-2 border-orange-accent/40 pl-4 py-0.5">
+                <strong>RJ-PG</strong> provides a safe, comfortable, and welcoming stay for working ladies and girl students.
+              </p>
+              <p className="border-l-2 border-orange-accent/40 pl-4 py-0.5">
+                <strong>RJ Homes</strong> offers well-maintained homestay accommodations for families, professionals, travelers, and all guests seeking a pleasant stay.
+              </p>
+              <p>
+                Located at  Saishradha Apartment Plot No. 314, Sector 31, Vashi, Navi Mumbai, we combine modern amenities with a peaceful residential atmosphere to ensure a comfortable and enjoyable experience.
+              </p>
+            </div>
 
             <p className="font-sans text-stone-500 font-light text-sm md:text-base leading-relaxed mb-8">
               Conveniently located at Plot No. 314, Sector 31, Vashi, Navi Mumbai, RJ-PG offers excellent connectivity to <strong>Vashi Railway Station</strong> and the <strong>Sion-Panvel Highway</strong>. It is an ideal accommodation choice for working ladies and girl students seeking a safe, comfortable, and peaceful environment to live, study, and grow.
