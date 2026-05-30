@@ -89,7 +89,7 @@ export default function Footer() {
               </div>
               <div className="flex gap-4 items-center text-sand-light/70 pl-8">
                 <span>
-                  Backup Care: <a href="https://wa.me/919321215228" target="_blank" rel="noopener noreferrer" className="hover:text-gold hover:underline">9321215228</a>
+                  Backup Care: <a href="https://wa.me/919326356633" target="_blank" rel="noopener noreferrer" className="hover:text-gold hover:underline">9326356633</a>
                 </span>
               </div>
               <div className="flex gap-4 items-center text-sand-light/70 pl-8">

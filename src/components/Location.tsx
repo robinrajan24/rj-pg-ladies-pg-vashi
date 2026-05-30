@@ -31,7 +31,7 @@ export default function Location() {
             </h2>
 
             <p className="font-sans text-stone-500 font-light text-sm md:text-base leading-relaxed mb-8">
-              Conveniently located on the Ground Floor of Saishradha Apartment, Plot No. 314, Sector 31, Vashi, Navi Mumbai – 400703, RJ-PG offers easy access to transportation, educational institutions, business hubs, hospitals, and shopping destinations. Our complete address is provided below:
+              Conveniently located on Saishradha Apartment, Plot No. 314, Sector 31, Vashi, Navi Mumbai – 400703, RJ-PG offers easy access to transportation, educational institutions, business hubs, hospitals, and shopping destinations. Our complete address is provided below:
             </p>
 
             {/* Premium Address Card */}

@@ -21,7 +21,7 @@ export default function Contact() {
 
   const contactNumbers = [
     { label: 'Primary Host (Jacob)', num: '7710081264', id: 'call1', hasWhatsApp: true },
-    { label: 'Backup Care', num: '9321215228', id: 'call2', hasWhatsApp: false },
+    { label: 'Backup Care', num: '9326356633', id: 'call2', hasWhatsApp: false },
     { label: 'Backup Facility', num: '8921843702', id: 'call3', hasWhatsApp: false }
   ];
 
