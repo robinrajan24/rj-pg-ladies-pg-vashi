@@ -50,7 +50,7 @@ export default function About() {
                   Safe Haven
                 </h4>
                 <p className="font-sans text-[11px] sm:text-xs text-cream/90 font-light leading-relaxed">
-                  Tailored exclusively with security & comfort for independent ladies, students, & working professionals.
+                  Tailored with top-tier security & comfort for independent professionals, students, & co-living residents.
                 </p>
               </motion.div>
             </div>
@@ -83,7 +83,7 @@ export default function About() {
                 Welcome to <strong>RJ-PG & RJ Homes</strong>, your trusted accommodation destination in Vashi, Navi Mumbai.
               </p>
               <p className="border-l-2 border-orange-accent/40 pl-4 py-0.5">
-                <strong>RJ-PG</strong> provides a safe, comfortable, and welcoming stay for working ladies and girl students.
+                <strong>RJ-PG</strong> provides a safe, comfortable, and welcoming co-living stay for working professionals and students.
               </p>
               <p className="border-l-2 border-orange-accent/40 pl-4 py-0.5">
                 <strong>RJ Homes</strong> offers well-maintained homestay accommodations for families, professionals, travelers, and all guests seeking a pleasant stay.
@@ -94,7 +94,7 @@ export default function About() {
             </div>
 
             <p className="font-sans text-stone-500 font-light text-sm md:text-base leading-relaxed mb-8">
-              Conveniently located at Plot No. 314, Sector 31, Vashi, Navi Mumbai, RJ-PG offers excellent connectivity to <strong>Vashi Railway Station</strong> and the <strong>Sion-Panvel Highway</strong>. It is an ideal accommodation choice for working ladies and girl students seeking a safe, comfortable, and peaceful environment to live, study, and grow.
+              Conveniently located at Plot No. 314, Sector 31, Vashi, Navi Mumbai, RJ-PG offers excellent connectivity to <strong>Vashi Railway Station</strong> and the <strong>Sion-Panvel Highway</strong>. It is an ideal accommodation choice for working professionals and students seeking a safe, comfortable, and peaceful environment to live, study, and grow.
             </p>
 
             {/* 2x2 Feature Grid inside About Us Column as in mockup */}
@@ -110,7 +110,7 @@ export default function About() {
                     Safe Environment
                   </h4>
                   <p className="font-sans text-[11px] leading-relaxed text-stone-500 font-light">
-                    We prioritize security with standard ground floor access, secure main gates, and a strict ladies-only entry policy. Situated in Vashi's upscale Sector, our residents enjoy verified resident vetting, strict neighborhood safety, and absolute peace of mind—ideal for independent corporate workers, active student learners, and parent guardians looking for trust.
+                    We prioritize security with standard ground floor access, secure main gates, and gated security. Situated in Vashi's upscale Sector, our residents enjoy verified resident vetting, strict neighborhood safety, and absolute peace of mind—ideal for independent corporate workers, active student learners, and families looking for trust.
                   </p>
                 </div>
               </div>

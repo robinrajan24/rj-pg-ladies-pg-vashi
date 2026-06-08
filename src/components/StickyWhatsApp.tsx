@@ -22,7 +22,7 @@ export default function StickyWhatsApp() {
     return () => clearTimeout(timer);
   }, []);
 
-  const waLink = "https://wa.me/917710081264?text=Hi!%20I'm%20interested%20in%20inquiring%20about%20safe%20ladies%20PG%20bed%20availabilty%20at%20RJ-PG%20Vashi.";
+  const waLink = "https://wa.me/917710081264?text=Hi!%20I'm%20interested%20in%20inquiring%20about%20co-living%20bed%20availability%20at%20RJ-PG%20Vashi.";
 
   return (
     <div className="fixed bottom-6 right-6 z-50 flex flex-col items-end gap-2.5 pointer-events-none">

@@ -44,7 +44,7 @@ export default function RJHomes() {
             Homestay Accommodations for All Guests
           </h2>
           <p className="font-sans text-stone-500 font-light text-sm md:text-base leading-relaxed max-w-2xl mx-auto">
-            While <strong>RJ-PG</strong> is built exclusively for ladies, <strong>RJ Homes</strong> welcomes families, professionals, travelers, and guests of all walks of life looking for a pleasant, well-maintained stay.
+            Both <strong>RJ-PG</strong> and <strong>RJ Homes</strong> welcome professionals, students, families, travelers, and guests from all walks of life looking for a pleasant, well-maintained stay.
           </p>
         </div>
 

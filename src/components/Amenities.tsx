@@ -37,7 +37,7 @@ const amenitiesData: AmenityProps[] = [
   {
     id: 'safe',
     title: 'Safe & Secure Stay',
-    description: 'RJ-PG is exclusively for working ladies and girl students with a strict ladies-only access policy, while RJ Homes welcomes families, professionals, travelers, and all guests.',
+    description: 'RJ-PG offers secure and hassle-free co-living options for everyone, while RJ Homes provides well-maintained homestay and apartment accommodations for families, professionals, travelers, and all guests.',
     icon: ShieldCheck
   },
   {

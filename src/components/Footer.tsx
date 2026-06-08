@@ -39,7 +39,7 @@ export default function Footer() {
               “Feel at Home. Stay with Comfort.”
             </p>
             <p className="font-sans text-xs text-sand-light/60 font-light leading-relaxed max-w-sm">
-              We provide highly secure, premium, tidy, and collaborative co-living rooms exclusively for working ladies and girl students, ensuring they feel right at home with daily amenities in Vashi, Navi Mumbai.
+              We provide highly secure, premium, tidy, and collaborative co-living rooms for working professionals and students, ensuring they feel right at home with daily amenities in Vashi, Navi Mumbai.
             </p>
           </div>
 
@@ -111,13 +111,13 @@ export default function Footer() {
         <div className="pt-8 flex flex-col sm:flex-row justify-between items-center text-left text-sand-light/40 text-[10px] sm:text-xs">
 
           <p className="font-sans font-light">
-            &copy; {currentYear} RJ-PG Ladies Accommodations Vashi, Navi Mumbai. All Rights Reserved.
+            &copy; {currentYear} RJ-PG & RJ Homes Co-living Vashi, Navi Mumbai. All Rights Reserved.
           </p>
 
           <div className="flex gap-4 mt-4 sm:mt-0 font-sans font-light items-center uppercase tracking-wider text-[10px]">
             <span className="flex items-center gap-1.5 text-gold">
               <ShieldCheck className="w-3.5 h-3.5" />
-              Strict Ladies Vetted Access Secure
+              Strictly Vetted Resident Access
             </span>
             <span className="h-4 w-[1px] bg-cream/10"></span>
             <span className="flex items-center gap-1.5 text-gold">

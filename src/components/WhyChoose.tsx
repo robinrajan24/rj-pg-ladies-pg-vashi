@@ -15,7 +15,7 @@ const keyReasons: ReasonItem[] = [
     id: 'safety',
     title: 'Safe Environment',
     subtitle: 'Absolute Peace of Mind',
-    description: 'We prioritize the safety of our residents above all else. With standard ground floor access in Saishradha Apartments, secure entries, a female-friendly residential neighborhood, and reliable vetting of all entrants, we guarantee a shelter you can fully trust.',
+    description: 'We prioritize the safety of our residents above all else. With standard ground floor access in Saishradha Apartments, secure entries, a safe and friendly residential neighborhood, and reliable vetting of all entrants, we guarantee a stay you can fully trust.',
     icon: ShieldAlert
   },
   {
@@ -36,7 +36,7 @@ const keyReasons: ReasonItem[] = [
     id: 'demographics',
     title: 'Ideal for Professionals & Students',
     subtitle: 'Inspiring Cohorts',
-    description: 'Designed exclusively for ambitious student minds and independent office workers in Navi Mumbai. We champion a premium community of like-minded women, encouraging focused work routines and mutual co-living harmony.',
+    description: 'Designed for ambitious student minds and independent office workers in Navi Mumbai. We champion a premium community of like-minded individuals, encouraging focused work routines and mutual co-living harmony.',
     icon: GraduationCap
   },
   {
@@ -92,7 +92,7 @@ export default function WhyChoose() {
               <span className="font-sans text-xs tracking-wider text-warm-brown font-semibold uppercase">The RJ-PG Standard</span>
             </div>
             <h2 className="font-serif text-3xl md:text-4xl lg:text-5xl font-medium tracking-tight text-charcoal-brown leading-tight">
-              Why Discerning Women Choose RJ-PG
+              Why Discerning Residents Choose RJ-PG
             </h2>
           </motion.div>
 
